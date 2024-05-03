@@ -1,5 +1,5 @@
 import numpy as np
-import setuptools as pm
+import pymc3 as pm
 
 # Datos observados
 datos = np.random.normal(loc=5, scale=2, size=100)
